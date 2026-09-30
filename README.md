@@ -12,7 +12,7 @@ Built with **HTML, CSS and Vanilla JavaScript**.
 
 ### 🌐 Live Demo
 
-[View Live Project]()
+[View Live Project](https://johnyisbackk.github.io/js-feature-vote-board-pro/)
 
 </div>
 
